@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Huijun Zhao's Resume
+title: Resume
 ---
 # Huijun Zhao
 Data Scientist, Ph.D. in Mathematics.
@@ -18,7 +18,7 @@ Data Scientist, Ph.D. in Mathematics.
 #### Ph.D. in Mathematics `(2012 - 2018)`
 
 - Concentration: Algebraic Geometry and Representation Theory
-- Preprint: [Representations of Cyclotomic Rational Cherednik Algebras with Aspherical Parameters] (https://arxiv.org/abs/1809.06724)
+- Preprint: [Representations of Cyclotomic Rational Cherednik Algebras with Aspherical Parameters](https://arxiv.org/abs/1809.06724)
 
 ### Zhejiang University (China)
 
