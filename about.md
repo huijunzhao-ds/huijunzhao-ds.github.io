@@ -3,7 +3,7 @@ layout: cv
 title: Resume
 ---
 # Huijun Zhao
-Data Scientist, Ph.D. in Mathematics.
+I'm a Data Scientist, having a Ph.D. in Mathematics.
 
 ## Experience
 ### Fidelity Investments
