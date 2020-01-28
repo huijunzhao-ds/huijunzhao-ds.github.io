@@ -14,9 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: AI Meets Math
-author:
-  name: Huijun Zhao
-  email: huijunzhao.ds@gmail.com
+author: Huijun Zhao
+email: huijunzhao.ds@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Make time for civilization, for civilization won't make time.
   ― Liu Cixin, The Dark Forest
