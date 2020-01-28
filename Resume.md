@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Resume
+title: "Resume"
 ---
 # Huijun Zhao
 Data Scientist, Ph.D. in Mathematics.
@@ -29,7 +29,7 @@ Data Scientist, Ph.D. in Mathematics.
 ### Data Science
 Machine Learning, Computer Vision, Natural Language Processing
 ### Programming
-Python, SQL, Java
+Python, SQL, Java, Swift
 ### Language
 Chinese (Mandarin), English
 
