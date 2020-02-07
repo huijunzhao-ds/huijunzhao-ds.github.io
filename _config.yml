@@ -21,3 +21,5 @@ theme: minima
 plugins:
  - jekyll-feed
 # - jekyll-seo-tag
+
+staticman_url: https://api.staticman.net/v3/entry/github/huijunzhao-ds/huijunzhao-ds.github.io/master/comments
