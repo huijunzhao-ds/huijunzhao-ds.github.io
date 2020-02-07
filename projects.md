@@ -2,7 +2,7 @@
 layout: page
 title: "Projects"
 ---
-## AI Projects
+## Machine Learning Projects
 Side projects I work on
 
 ### Image Style Transfer App
