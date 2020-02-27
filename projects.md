@@ -6,7 +6,9 @@ title: "Projects"
 Side projects I am working on or plan to work on. Contact me if you are interest to collaborate or have any comment. 
 
 ### Book Recommender
-I'm sort of addicted to reading. Recently I just started using Goodreads to record books I read and to find new ones. At the same time, I'm building a book recommender to compare the recommendations it gives with those Goodreads does. The result will be fun.
+I'm sort of addicted to reading. Recently I just started using Goodreads to record books I read and to find new ones. At the same time, I'm building a book recommender to compare the recommendations it gives with those Goodreads does. The result will be fun. All data I use come from [here](https://github.com/zygmuntz/goodbooks-10k).
+
+The GitHub repo is [here](https://github.com/huijunzhao-ds/book-recommender). Currently we are still processing the data and building the initial model. More doc and code to come soon.
 
 ### Image Style Transfer App
 We are currently working on a deep learning model to generate a new image combining given content image and style image. And we will deploy the model to both a web application and a cross-platform (Android and iOS) mobile application.
