@@ -1,4 +1,4 @@
-title: Math Towards Machine Learning
+title: Math Towards AI
 author: Huijun Zhao
 email: huijunzhao.ds@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -14,6 +14,7 @@ github_username:  huijunzhao-ds
 header_pages:
  - about.md
  - projects.md
+ - resorces.md
 
 # Build settings
 markdown: kramdown

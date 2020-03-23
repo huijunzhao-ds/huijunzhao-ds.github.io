@@ -24,13 +24,6 @@ While I talk to more and more people eager to learn about machine learning, data
 
 I hope to leverage my learning and teaching experience to build a website that show math in an efficient and interesting way. This will take long. But let me try every effort to make the outcome helpful for my friends, and my kid (who is just half a year old now. Thanks to him for giving me sufficient time). The website will include calculus, linear algebra, group theory, basic topology, and maybe more.
 
-## Online Courses
-Online courses I have completed and highly recommand
-
-### Advanced Machine Learning Specialization on Coursera
-- Math and coding intensive, but really helpful.
-- Resources: [Course Link](https://www.coursera.org/specializations/aml), [Assignment Solutions](https://github.com/huijunzhao-ds/advanced-machine-learning).
-
 
 
 
