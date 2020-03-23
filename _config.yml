@@ -14,7 +14,7 @@ github_username:  huijunzhao-ds
 header_pages:
  - about.md
  - projects.md
- - resorces.md
+ - resources.md
 
 # Build settings
 markdown: kramdown
