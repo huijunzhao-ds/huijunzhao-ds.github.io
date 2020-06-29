@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes on Computer Vision 1: Harris Corner Detection"
+title:  "Notes on Computer Vision and OpenCV: Harris Corner Detection"
 ---
 This post is the notes I take when learning __Harris Corner and Edge Detection__ in [Datawhale](https://datawhale.club/) (an open-source organization mentioned in my previous [post](/cs224n-intro.html)). The learning sessions focus on computer vision algorithms implemented in OpenCV (most of them do not use deep learning). I participate in the sessions seeking for better intuition and faster inference compared to the deep learning algorithms.
 
