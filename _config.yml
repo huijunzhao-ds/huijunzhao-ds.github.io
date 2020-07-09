@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #show_excerpts: true # set to true to show excerpts on the homepage
 github_username:  huijunzhao-ds
-
+twitter_username: zhao-huijun
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
